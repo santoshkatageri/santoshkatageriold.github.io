@@ -1,1 +1,1 @@
-This is my personal resume website created using github page
+This is my Online resume webpage created using github page
